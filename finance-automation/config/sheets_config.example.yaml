@@ -1,0 +1,18 @@
+# Public placeholder. Copy to sheets_config.yaml for private customization.
+spreadsheet_id: "YOUR_WORKBOOK_ID_HERE"
+credentials_path: "~/.config/finance-chat-portfolio/gcp-service-account.json"
+
+tabs:
+  transactions_raw: "Transactions_Raw"
+  rules: "Rules"
+  review_queue: "Review_Queue"
+  monthly_summary: "Monthly_Summary"
+
+monthly_report_sheet: "Summary"
+monthly_report_ranges:
+  net_revenues: "B2"
+  total_fixed_expenses: "B3"
+  total_variable_expenses: "B4"
+  total_expense: "B5"
+  target_retained_earning: "B6"
+  real_retained_earning: "B7"

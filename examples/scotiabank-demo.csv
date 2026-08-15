@@ -1,0 +1,7 @@
+Filter,Date,Description,Sub-description,Status,Type of Transaction,Amount
+Current and last statement period,2026-08-01,DEMO PAYROLL,,Posted,Credit,3500.00
+,2026-08-02,DEMO GROCERY,,Posted,Debit,84.20
+,2026-08-03,DEMO COFFEE,,Posted,Debit,5.75
+,2026-08-04,DEMO UTILITY,,Posted,Debit,92.10
+,2026-08-05,DEMO TRANSIT,,Posted,Debit,25.00
+,2026-08-06,DEMO STREAMING,,Posted,Debit,14.99

@@ -1,0 +1,13 @@
+# Public demo account registry. Copy to accounts.yaml for private customization.
+accounts:
+  - name: scotiabank-demo
+    type: bank
+    institution: scotiabank
+    format_variant: default
+    owner: demo-user
+
+  - name: bmo-demo
+    type: bank
+    institution: bmo
+    format_variant: default
+    owner: demo-user

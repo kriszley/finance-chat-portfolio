@@ -1,0 +1,8 @@
+pattern,match_type,normalized_merchant,category,subcategory,expense_type,recurring,transfer,notes
+DEMO GROCERY,contains,Demo Grocery,Groceries,,variable,false,false,Synthetic portfolio fixture
+DEMO COFFEE,contains,Demo Coffee,Dining,Coffee,variable,false,false,Synthetic portfolio fixture
+DEMO UTILITY,contains,Demo Utility,Utilities,Electricity,fixed,true,false,Synthetic portfolio fixture
+DEMO STREAMING,contains,Demo Streaming,Subscriptions,Streaming,variable,true,false,Synthetic portfolio fixture
+DEMO TRANSIT,contains,Demo Transit,Transportation,Transit,variable,false,false,Synthetic portfolio fixture
+DEMO PAYROLL,contains,Demo Employer,Income,Salary,income,true,false,Synthetic portfolio fixture
+DEMO TRANSFER,contains,Demo Transfer,Transfers,Internal,transfer,false,true,Synthetic portfolio fixture

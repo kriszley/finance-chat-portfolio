@@ -1,0 +1,54 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build
+.next/
+out/
+dist/
+*.tsbuildinfo
+
+# Data
+backend/data/
+*.db
+*.db-wal
+*.db-shm
+
+# Uploads
+backend/data/uploads/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude / gstack
+.claude/
+.gstack/
+
+# Local user dirs
+krisley/
+
+# Finance automation outputs (don't commit real financial data)
+finance-automation/inputs/*.csv
+finance-automation/outputs/
+finance-automation/config/accounts.yaml
+finance-automation/config/sheets_config.yaml
+finance-automation/rules/merchant_rules.csv
+finance-automation/rules/transfer_rules.csv
+
+# Test/runtime caches
+.pytest_cache/
+.coverage
+htmlcov/
