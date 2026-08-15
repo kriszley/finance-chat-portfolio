@@ -8,7 +8,7 @@ This repository is a sanitized portfolio snapshot. It contains synthetic example
 
 ## What it demonstrates
 
-- A Next.js 15 / React 19 chat and visualization interface
+- A Next.js 16 / React 19 chat and visualization interface
 - A FastAPI tool-execution API with SQLite and WAL mode
 - A deterministic Python pipeline for parsing, normalization, deduplication, transfer detection, categorization, and reporting
 - Rules-first classification with an explicitly opt-in cloud-LLM fallback
@@ -100,3 +100,7 @@ finance-automation/   Deterministic transaction-processing pipeline
 examples/             Synthetic data only
 .github/workflows/    CI for Python tests and frontend build
 ```
+
+## License
+
+Copyright © 2026 Chris Lee. This source is public for portfolio review, but no license is granted for copying, redistribution, or commercial use. See [LICENSE](LICENSE).
